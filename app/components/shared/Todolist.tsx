@@ -19,6 +19,7 @@ const TodoList = ({ todo }: {todo:todotype}) => {
             <td className="py-3 px-20">
               <div className="changeicon">
                 <ChangeTodo todo={todo} />
+                
               </div>
             </td>
 
