@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <div className="bar navbar nav-bar shadow-xl bg-base-300 ">
   <div className="flex-1">
-    <Link href="/">
+    <Link href="/home">
     <img className='navimg' src={logo.src} alt="NavLogo" />
     </Link>
   </div>

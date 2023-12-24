@@ -19,7 +19,7 @@ export async function create(formData:FormData) {
         },
     });
 
-    revalidatePath("/");
+    revalidatePath("/home");
 }
 
 export async function changeStatus(formData:FormData){
@@ -51,7 +51,7 @@ export async function changeStatus(formData:FormData){
                         
         },
     });
-    revalidatePath("/");
+    revalidatePath("/home");
     return updatedStatus;
 }
 /*--------------------- EDIT FUNCTION----------------------------*/
@@ -70,7 +70,7 @@ export async function edit(formData:FormData) {
             title:input,
         },
     });
-    revalidatePath("/");
+    revalidatePath("/home");
 }
 
 /*--------------------- DELETE FUNCTION----------------------------*/
@@ -82,5 +82,5 @@ export async function deleteTodo(formData:FormData) {
             id:inputId,
         },
     });
-    revalidatePath("/");
+    revalidatePath("/home");
 }
