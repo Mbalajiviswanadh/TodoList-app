@@ -1,5 +1,5 @@
 # TO DO App
-A Simple Todo App User can add their tasks and they can edit or delete their tasks.
+A Simple Todo App fully Responsive, User can add their tasks and they can edit or delete their tasks.
 ### Description:
 Made this App using using Next Js, Prisma, mongodb, DesyUi, NextJs, tailwind, Typescript
 
