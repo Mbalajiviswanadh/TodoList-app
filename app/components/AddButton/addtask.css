@@ -1,0 +1,17 @@
+.addbtn{
+    color: white;
+    width: 400px;
+    border: none;
+    
+}
+.addbtn:hover{
+    background-color:#78b482;
+}
+
+@media screen and (max-width: 767px) {
+    .addbtn{
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%; 
+    }
+  }

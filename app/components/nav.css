@@ -1,0 +1,23 @@
+.navimg{
+    width: 80px;
+    height: auto;
+}
+.nav-bar{
+    border-radius: 20px;
+    width: 60%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.change-theme{
+    margin-right: 15px;
+}
+.bar{   
+    height: 50px;
+}
+
+@media screen and (max-width: 767px) {
+   .bar{
+    width: 80%;
+   }
+  }
