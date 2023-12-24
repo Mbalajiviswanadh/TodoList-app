@@ -1,3 +1,26 @@
+# TO DO App
+A Simple Todo App fully Responsive, User can add their tasks and they can edit or delete their tasks.
+### Description:
+Made this App using using Next Js, Prisma, mongodb, DesyUi, NextJs, tailwind, Typescript
+
+---
+| *Destop View* | *Mobile View* |
+|-----------|-------------------|
+| ![Screenshot](Screenshots/lightmode-desktop.png) | ![Screenshot](Screenshots/lightmode-mobile.png) |
+
+| *Destop View* | *Mobile View* |
+|-----------|-------------------|
+| ![Screenshot](Screenshots/darkmode-desktop.png) | ![Screenshot](Screenshots/darkmode-mobile.png) |
+
+
+---
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
