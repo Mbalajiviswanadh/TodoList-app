@@ -1,7 +1,7 @@
 import React from 'react'
-import logo from '../images/logo.png'
+import logo from '../components/images/logo.png'
 import './nav.css'
-import Link from 'next/link'
+// import Link from 'next/link'
 const Nav = () => {
   return (
     <div className="bar navbar nav-bar shadow-xl bg-base-300 ">
