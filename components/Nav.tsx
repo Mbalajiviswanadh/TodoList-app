@@ -1,4 +1,3 @@
-import React from 'react'
 import logo from '../components/images/logo.png'
 import './nav.css'
 // import Link from 'next/link'
