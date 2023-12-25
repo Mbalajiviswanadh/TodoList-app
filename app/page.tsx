@@ -3,8 +3,11 @@ import Logo from "./components/Logo";
 import Nav from "./components/Nav";
 import TodoList from "./components/shared/Todolist";
 import ViewPage from "./components/Viewpage/ViewPage";
-import { prisma } from "@/utils/prisma";
+// import { prisma } from "@/utils/prisma";
+import { PrismaClient } from "@prisma/client";
 
+//nelly added
+const prisma = new PrismaClient();
 
 async function getData() {
   const data =await  prisma.todo.findMany({
