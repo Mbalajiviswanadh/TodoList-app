@@ -2,7 +2,8 @@
 A Simple Todo App fully Responsive, User can add their tasks and they can edit or delete their tasks.
 ### Description:
 Made this App using using Next Js, Prisma, mongodb, DesyUi, NextJs, tailwind, Typescript
-####NOTE: This is s simple Todo app, I also used Mongodb for the database thats why the Data will be same for every User
+
+#### NOTE: This is s simple Todo app, I also used Mongodb for the database thats why the Data will be same for every User
 
 ---
 | *Destop View* | *Mobile View* |
